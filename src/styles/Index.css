@@ -1,0 +1,42 @@
+.collapsible {
+    background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: black;
+    text-align: left;
+    outline: black;
+    outline-width: 5px;
+    font-size: 30px;
+}
+
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+}
+
+.para {
+    text-align: justify;
+    text-justify: inter-word;
+    }
+
+.container {
+    margin:2em auto 5em;
+}
+
+.btn {
+    margin:0 1em;
+}
+
+h1, h2, h3 {
+    color:#222;
+    margin-bottom:1em;
+}
+
+.homePage {
+    font-size:1.4em;
+    line-height: 1.6em;
+    margin: 2em auto;
+}
